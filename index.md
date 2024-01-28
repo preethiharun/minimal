@@ -47,7 +47,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="img/machine learning.jpg"/></center>
+<center><img src="img/machine learning.jpeg"/></center>
 
 ---
 ### Gesture Recognizer
